@@ -15,6 +15,7 @@ namespace Attendance_Management_System
         public Main()
         {
             InitializeComponent();
+            this.Show();
         }
 
         private void Main_Load(object sender, EventArgs e)
